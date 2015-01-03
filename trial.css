@@ -40,9 +40,10 @@ border-radius:40px;
 text-decoration:none;
 color: #8B4513;
 font-family: 'Philosopher', sans-serif;
-font-size:1.0 em;
-float:left;
+font-size:1.0em;
+display:inline-block;
 box-shadow: 5px 3px black;
+float:left;
 }
 
 p{
