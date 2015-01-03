@@ -16,10 +16,6 @@ text-decoration:none;
 a.navi:hover{
 color:#708090
 }
-a.navi{
-width:50%;
-}
-
 
 nav ul{
 list-style:none;
@@ -36,7 +32,7 @@ margin:2px 3px 3px 3px;
 background-color:#fff8dc;
 height: 1.5em;
 line-height: 1.5em;
-width: 13.4em;
+width: 15em;
 padding:5px;
 border: .3em solid;
 border-left:  black;
@@ -45,7 +41,7 @@ border-radius:40px;
 text-decoration:none;
 color: #8B4513;
 font-family: 'Philosopher', sans-serif;
-font-size:1em;
+font-size:1.0 em;
 float:left;
 box-shadow: 5px 3px black;
 }
