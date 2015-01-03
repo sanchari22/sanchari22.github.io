@@ -1,0 +1,55 @@
+
+h1{
+text-align: center;
+}
+h1 {
+color: orange;
+float: left;
+margin:100 0 0 0 ;
+padding: 100 100 0 0;
+width:100%
+}
+
+}
+
+#list{
+list-style: none;
+}
+#wrap {
+mx-width:940 
+margin: 0 auto;
+padding: 0 5%;
+background: none;
+list-style: none;
+}
+nav a {
+text-decoration:none;
+list-style:none;
+}
+
+img {
+max-width:100%;
+width: 45%;
+margin:2.5%;
+back-ground color: #6e5b2f;
+}
+
+# picture {
+list-style:none;
+float: left;
+width: 45%;
+magin: 2.5%;
+back-ground:#f5f5f5;
+color:#bdc3c7;
+}
+footer{
+text-align: center;
+clear: both;
+}
+nav li {
+float: left;
+list-style: none;
+display: inline-block;
+margine; 0 500;
+padding: 0 500;
+}

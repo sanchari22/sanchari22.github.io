@@ -1,0 +1,83 @@
+<!DOCTYPE  html>
+<html>
+<htmllang="en">
+  <head>
+	<metacharset="utf-8>
+ 	<title>Publications & Awrads</title>
+<link rel="stylesheet" type="text/css" href="Publications.css">
+<link rel="stylesheet" type="text/css" href="mediaquery.css">
+<link href='http://fonts.googleapis.com/css?family=Dancing+Script:400,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Philosopher:700,400|Dancing+Script:400,700' rel='stylesheet' type='text/css'> 
+
+
+</head>
+<body>
+	
+	<nav>
+<ul>
+			<a href="Research Portfolio.html"class="navi"> Research Portfolio</a>
+			<a href="Research Part 1.html"class="navi">Research Part 1</a>
+<a href="Research Part 2.html" class="navi">Research Part 2</a>
+			
+			<a href="Contact.html"class="navi">Contacts</a>
+</ul>
+	</nav>
+<h1> Publications</h1>
+</body>
+<section>
+<dlid="table"> 
+<dt> 1. Insulator based dielectrophoretic single particle and single cancer cell trapping.      
+Sanchari Bhattacharya, Tzu-Chia Chao, Alexandra Ros, Electrophoresis, 2011, 32, 1-9
+<a href="http://onlinelibrary.wiley.com/doi/10.1002/elps.201100066/abstract" id="research1">(Insulator based dielectrophoresis..)</a>
+</dt>
+<br>
+<dt id="table"> 2. Selective trapping of single mammalian breast cancer cell by insulator based dielectrophoresis in microfluidic lab-on-chip device. Sanchari Bhattacharya, Tzu-Chia Chao, Nethmi Aryasinghe, Yvette Ruiz, Douglas Lake, Robert Ros, Alexandra Ros, 2014, 406(7), 1855-65
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/24408303"id="research1">(Selective trapping..)</a>
+</dt>
+<br>
+<dt id="table"> 3. Microfludic gel electrophoresis in the undergraduate laboratory applied to food analysis.
+Tzu-Chia Chao, Sanchari Bhattacharya, Alexandra Ros, Journal of Chemical Education, 2012, 125-129
+<a href="http://pubs.acs.org/doi/abs/10.1021/ed101064p?journalCode=jceda8"id="research1"> (Microfluidic gel electrophoresis..)</a>
+</dt>
+<br>
+<dt id="table"> 4. Nanoparticle quercetin in combating age related cerebral oxidative injury.
+Sanchari [Das] Bhattacharya, Ardhendu.K.Mondal, Aparajita Ghosh, Subhamay Panda, Sibani Sarkar, Current  Aging Science, 2008, 1,  169-174.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/20021389"id="research1">(Nanoparticle quercetin..)</a>
+</dt>
+<br>
+<dt id="table"> 5. Vesicular flavonoid in combating dieethylnitrosamine induced hepatocarcinoma in rat model. 
+ Ardhendu. K.Mondal, Sanchari [Das] Bhattacharya, Maitreyi Mitra. Experimental Therapeutics  and  Oncology, 2008, 7, 123-133.
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/18771086"id="research1">(Vesicular flavanoid..)</a>
+</dt>
+</dl>
+</body>
+<br>
+<h1>Awards</h1>
+<h2> Invited Presentation:</h2>
+<dl>
+<dt id="table"><strong>Federation of Analytical Chemistry and Spectroscopy Societies (FACSS, 2012)</strong>
+<br>
+Topic:  Selective trapping of single mammalian breast cancer cell by insulator based dielectrophoresis in microfluidic lab-on-chip device.
+</dt>
+</dl>
+<dl>
+<dt id="table"> 1. Student Poster Award 2010 at Raleigh, NC
+<dd> Sponsored by Federation of Analytical Chemistry and Spectroscopy Societies</dd>
+</dt>
+<br>
+<dt id="table"> 2. Student Poster Award 2012 at Kansas City, MO</dt>
+<dd>Sponsored by Federation of Analytical Chemistry and Spectroscopy Societies.</dd>
+<br> 
+<dt id="table">3. Excellence in teaching assistant award, 2013 for teaching Advanced Analytical Chemistry</dt>
+<dd> Sponsored by The Department of Chemistry & Biochemistry, ASU</dd>
+<br>
+<dt id="table"> 4. Summer 2013 Graduate College Research Fellowship Program
+<dd>Sponsored by The Department of Chemistry & Biochemistry</dd>
+</dt>
+<h2> Journal Referee</h2>
+<dl>
+<dd>Electrophoresis Journal</dd>
+</dl>
+<a  href="Research Portfolio.html"id="research1">Research Portfolio</a>
+</section>
+<footer>&copy; Sanchari Bhattacharya 2014</footer>

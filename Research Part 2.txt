@@ -1,0 +1,39 @@
+<!DOCTYPE  html>
+<html>
+<htmllang="en">
+  <head>
+	<metacharset="utf-8>
+ 	<title>Research</title>
+<link rel="stylesheet" type="text/css" href="trial 2.css">
+<link rel="stylesheet" type="text/css" href="mediaquery.css">
+<link href='http://fonts.googleapis.com/css?family=Dancing+Script:400,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Philosopher:700,400|Dancing+Script:400,700' rel='stylesheet' type='text/css'> 
+</head>
+<body>
+
+	<nav>
+	<ul>
+			<a href="Research Portfolio.html"class="navi"> Research Portfolio</a>
+			<a href="Research Part 1.html"class="navi">Research Part 1</a>
+			<a href="Publications & Awards.html"class="navi">Publications & Awards</a>
+			<a href="Contact.html"class="navi">Contacts</a>
+</ul>
+	</nav>
+</div>
+</body>
+<section>
+<h2>Selective trapping of two types of cancer cell</h2>
+<p>As we have seen that single cells can be trapped using the device with tear drop insulating posts. The electric field needed to trap different  cell lines, is different. This difference is utilized for selective trapping of a specific cancer cell from a mixture with other cells.</p>
+<p>MDA MB 231  cells are highly metastatic breast cancer cells. There are evidences which shows weakly metastatic cells like the MCF-7 transforms into the MDA MB 231. This transformation is accompanied by the changes in membrane surface protein expression. For our experiments we have used MDA MB 231 cells expressing  red d-TOM GFP (Green fluorescent protein) for differentiating with MCF-7 cells labelled with green Calcein-AM dye (this dye is live cell membrane permeable).</p>
+<p>Electric field needed to trap the MCF-7 is much lower than that needed for MDA MB 231 cell type. We have been able to simulate the trapping conditions and found the trapping  regions near the tips of the tear drop insulating posts. The following image shows the images captured of the MCF-7 cells(green) and the MDA MB 231(red) flowing through the trapping region. This image was captured using an opt split device which separated the two wavelengths (two colors) in two separated regions on the screen.</p>
+<img src="mda mcf-7 selective trapping thesis.png" class="mda">
+<p> Detail mathematics of the selective trapping of the two types of cancer cel, is present in the publication<a href="Publications & Awards.html"class="research1">Publications & Awards</a></p>
+<p> Cancer cells and normal cells like lymphocytes have very different morphology like cell dimensions and cell membrane. These differences are exploited to perform selective trapping between T-Lymphocytes, B-Lymphocytes and Natural Killer cells.</p>
+<video width="200" height="200" controls src="selective trapping 16jan (trim).mov" class="mov">
+<p>As evident from the movie, the bigger MCF-7 cells (10 -15 &#xb5;m radius) is sufficiently big enough to get trapped, whereas the smaller Lymphocytes (1.5 &#xb5;m radius) flows down stream, squeezing past the trapped MCF-7 cell.</p>
+<p> If you you want to contact me and ask in-depth questions about my research, please contact me, the information is provided at</p><a href="Contact.html" class="research1">Contact</a>
+<br>
+</section>
+<a  href="Research Portfolio.html" class="research1">Research Portfolio</a>
+
+<footer> &copy; Sanchari Bhattacharya 2014</footer>

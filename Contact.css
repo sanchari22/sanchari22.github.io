@@ -1,0 +1,97 @@
+a{
+text-decoration:none;
+}
+
+a.navi:hover{
+color:#708090;
+}
+
+nav ul{
+list-style:none;
+display:inline-block;
+}
+
+a.navi{
+text-align: center;
+margin:2px 3px 3px 3px;
+background-color:#fff8dc;
+height: 1.5em;
+line-height: 1.5em;
+width: 15em;
+padding:5px;
+border: .3em solid;
+border-left:  black;
+border-bottom: #888888;
+border-radius:40px;
+text-decoration:none;
+color: #8B4513;
+font-family: 'Philosopher', sans-serif;
+font-size:1.0em;
+display:inline-block;
+box-shadow: 5px 3px black;
+float:left;
+}
+
+
+
+p{
+font-family: 'Philosopher', sans-serif;
+font-size:1.25em;
+margin: 10px 15px 10px 10px;
+display:block;
+}
+
+
+h2{
+display:block;
+font-family:'Philosopher', sans-serif;
+font-size:1.5 em;
+padding:5px,0,0,0;
+margin:10px 10px 10px 10px;
+}
+.acknowledgment {
+list-style:none;
+font-size:1.25em;
+font-family: 'Philosopher', sans-serif;
+margin: 0 0 0 10px;
+}
+
+.contact-info li{
+list-style:none;
+margin:15px auto;
+font-size:1.25em;
+font-family: 'Philosopher', sans-serif;
+}
+.contact-info li.tel a{
+background-image:url('phone.png');
+}
+.contact-info li.mail a{
+background-image:url('mail.png');
+}
+.contact-info li.tel a{
+display:block;
+background-repeat:no-repeat;
+background-size:26.5px 26.5px;
+padding:0 0px 0px 30px;
+margin: 15px auto;
+}
+.contact-info li.mail a{
+display:block;
+background-repeat:no-repeat;
+background-size:26.5px 26.5px;
+padding:0 0px 0px 30px;
+margin: 15px auto;
+}
+
+/**footer**/
+
+footer{
+text-align:center;
+clear:both;
+color:#2E8B57;
+font-size:1.0em;
+font-family: 'Philosopher', cursive;
+margin:10px auto;
+}
+
+

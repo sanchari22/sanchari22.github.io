@@ -1,0 +1,24 @@
+@media screen and (min-width:480px){
+body{
+background-color:transparent}
+
+
+
+}
+
+
+@media screen and (min-width:660px){
+body{
+background-color:transparent;}
+#primary{
+display:block;
+float:left;
+}
+#secondary{
+display:block;
+float:right;
+margin:10px 60px 0 0;
+}
+}
+
+

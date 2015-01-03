@@ -1,0 +1,117 @@
+<!DOCTYPE  html>
+<htmllang="en">
+  <head>
+	<metacharset="utf-8>
+ 	<title>Sanchari Bhattacharya</title>
+  </head>
+<body>
+	<header>
+		<a href="First html.html" id="go bak.html">
+		<h1>Sanchari Bhattacharya | Designer</h1>
+		<style>
+		h1 {color: Green;}
+		h2 {color: Red;}
+		</style>
+		<h2>Creater</h2>
+		</a>
+		<nav>
+ 		<ul>
+		<li><a href="Portfolio.html">Portfolio</a></li>
+		
+			<ol>
+				<li><a href="first.html" >first</a></li>
+				<iframe width="300" height="300" scr="first.html"></iframe>
+				<li>first</li>
+				<li>  second </li>
+				<ul>
+				<li>first</li>
+				<li> second </li>
+				<li> third</li>
+				</ul>
+				<dl>Adviser
+				<dt>teacher
+				<dd>research</dd>
+				</dt>
+				</dl>
+				<li> third</li>
+			</ol>
+		<li><a href="About.html">About</a></li>
+<video width="320" height="240" controls src="trapping70VTeardrop.mov">
+</video>
+
+		<li><a href="Contact.html">Contact</a></li>
+		</ul>
+		</nav>
+	</header>
+	<div>
+	<nav>
+	<ul>
+		<li>
+		<img src="cylinder.png">
+		</li>
+		<j>Galary</j>
+		<style>
+		j {color:red;}
+		</style>
+	</ul>
+	</nav>
+	</div>
+<form action="Form.html" method="POST" name="My post count">
+<fieldset>
+<legend align="center">Important</legend>
+<label for="username">Username:</label>
+<input type="text" name="username" id="username:"><br>
+<label for="password" >Pass word:</label>
+<input type="password" name="password" id="password"><br>
+<label for="gender">FEMALE</label>
+<input type="radio" name="gender" value="female" id="gender"><br>
+<label for="gender">MALE</label>
+<input type="radio" name="gender" value="male" id="gender"><br>
+<label for="helpful">HELPFUL</label>
+<input type="checkbox" name="helpful"value="helpful" id="helpful"><br>
+<label for="VERY HELPFUL">Very helpful</label>
+<input type="checkbox" name="very helpful" value="very helpful" id="very helpful"><br>
+<label for="not much help">Not much helpfull</label>
+<input type="checkbox" name="not much helpful" value="not much help" id="not much helpful"><br>
+</fieldset>
+<fieldset>
+<legend align="center">Options</legend>
+<lable for="essay">Write about the perfume</label><br>
+<textarea name="essay" id="essay rows="15" cols="25"></textarea>
+<br>
+<label for="Continents">Where are you from?</label>
+<select name="Continents" id="Continentd>
+<optgroup label="America">
+	<option>South America</option>
+	<option>North America</option>
+</optgroup>
+<optgroup label="Eurasia"
+	<option> Asia</option>
+	<option>Europe</option>
+</optgroup>
+<option>Africa</option>
+<option>Australia</option>
+<option>Antartica</option>
+</select>
+<input type="submit" value="Submit">
+</fieldset>
+</form>
+<p1><em>Lorem ipsum dolor sit amet,</em></p1>
+<p2><strong>consectetur adipisicing elite,</strong></p2>
+<p3> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<hr>
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</p3>
+<blockquote cite="httm.//quote.html"><q>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</q></blockquote>
+<hr></hr>
+
+	
+	
+	<footer>
+		<p>&copy; 2014 Sanchari Bhattacharya.</p>
+		<style>
+		p {color: Magenta;}
+		p {font-size: 8;}
+		</style>
+	</footer>
+</body>
+</html>

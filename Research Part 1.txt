@@ -1,0 +1,52 @@
+<!DOCTYPE  html>
+<html>
+<htmllang="en">
+  <head>
+	<metacharset="utf-8>
+ 	<title>Research</title>
+<link rel="stylesheet" type="text/css" href="trial 1.css">
+<link rel="stylesheet" type="text/css" href="mediaquery.css">
+<link href='http://fonts.googleapis.com/css?family=Dancing+Script:400,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Philosopher:700,400|Dancing+Script:400,700' rel='stylesheet' type='text/css'> 
+</head>
+<body>
+<header>
+	
+	<nav>
+         <ul>
+
+			<a href="Research Portfolio.html"class="navi"> Research Portfolio</a>
+			<a href="Research Part 2.html" class="navi">Research Part 2</a>
+			<a href="Publications & Awards.html"class="navi">Publications & Awards</a>
+			<a href="Contact.html" class="navi">Contacts</a>	
+      </ul>
+</nav>
+</div>
+</header>
+</body>
+
+<section>
+<h2>Importance of single cell analysis</h2>
+<p>At present, proteomic analysis are done with analyte coming from an ensemble of cells. As a result the signal coming from a single cell is lost. Imagine a sample of 10 cells and only one of them express a protein of interest. Now if we crush them up and analyze the combined analyte, we would loose  the signal from the single cell. But if we can confine each single cell and analyze the single cell analyte, we would overcome the problem. This would be great process for early disease diagnosis, proteomic analysis, detection of new subpopulations and unveil many new regulatory paths.
+<h2>Why use Microfluidic devices?</h2>
+<p>The microfluidic devices are perfect for single cell detections. These devices have dimensions in the range of &#xb5;L to nano L volume which suits the single cell analyze volume, which varies from 10 to 100 &#xb5;L. Most of these devices are made with a combination of glass and elastomers like Polydimethyl siloxane (PDMAS), Poly methyl methacrylate (PMMA) and are called hybrid microfluidic chips.</p>
+<h2>How does my microfluidic device platform look like?</h2>
+<p>
+We build a microfluidic device which can be used to trap single cancer cell. The technique used for trapping the single cancer cell is insulator based dielectrophoresis. A schematic description of the platform is given as follows:<img src="scheme of the project.jpg" alt="scheme" class="scheme"></p>
+	
+<p>It can be divided in 3 sections. First section is dedicated for trapping the single cancer cell using insulator based dielectrophoresis technique.The next section is the lysis of the single cell followed by electrokinetic manipulation of the analyte and navigate it to desired location within the device. The final section is the MALDI-MS analysis of the specific protein coming from the single cell.</p>
+<h2>Trapping MCF-7 Breast Cancer Cells </h2>
+<p> MCF-7 are weakly metastatic breast cancer cells. These are one of the most popular cell lines used for breast cancer research. Their diameter varies within the range of 20-30 &#xb5;m and hence are very suitable for confinement in microfluidic devices. The device used for trapping these cells consists of a tear drop structured insulating posts placed in the middle to a <q>T</q> intersection. Conductive fluid flows through the channels (visualize them as tunnels) but the placement of the insulating posts  distorts the electric field and creates a non-uniform electric field.</p> 
+<img src="cHIP CROSS SECTION a-1.png" class="chip">
+<p>Depending on the conductivity (how easily current flows through the substance) of the fluid and the conductivity of the cell, we expect to see the cell travel to the regions of higher or lower electric field gradient (Electric field  gradient per unit length). In this case the cell travels to the regions of lower electric field gradients. This is called negative dielectrophoresis. If the cell would have traveled towards higher electric field gradient regions, then it would have been termed as positive dielectrophoresis. The mathematic derivation of this character is described in details in my publications.<a href="Publications.html" class="research1">Publications</a></p>
+<p>The real time video of the single MCF-7 cell trapping is given below. The cell gets trapped in between the tear drop insulating posts and remains there till it is lysed.</p>
+<br>
+	<video width="200" height="200" controls src="cell trapping with tear drop(SMALL VERSION).mov" class="movie">
+	</video>
+<p>Different types of cells can be trapped in a similar process, using the same device but at different electric field. This difference was exploited to trapped a specific type of cell from a mixture. Read more in 
+<a href="Research Part 2.html" class="research1">Research Part 2</a>
+<a  href="Research Portfolio.html" class="research1">Research Portfolio</a></p>
+</div>
+</section>
+
+<footer> &copy; Sanchari Bhattacharya 2014</footer>

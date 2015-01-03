@@ -1,0 +1,19 @@
+<!DOCTYPE  html>
+<html>
+<htmllang="en">
+  <head>
+	<metacharset="utf-8>
+ 	<title>Sanchari Bhattacharya</title>
+  </head>
+<body>
+<p1> This is portfolio</p1>
+<br></br>
+<a  href="first html.html">Go Back</a>
+</body>
+<footer>
+<p> &copy; 2014 Sanchari Bhattacharya
+<style>
+		p {color: Magenta;}
+		p {font-size: 8;}
+		</style>
+	</footer>

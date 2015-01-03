@@ -1,0 +1,47 @@
+<!DOCTYPE html><html><head><title>Sanchari Bhattacharya</title></head><body><htmllang="en">
+  
+
+	<metacharset="utf-8>
+ 	<link rel="stylesheet" type="text/css" href="mediaquery.css">
+<link rel="stylesheet" type="text/css" href="trial.css">
+<link href='http://fonts.googleapis.com/css?family=Dancing+Script:400,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Philosopher:700,400|Dancing+Script:400,700' rel='stylesheet' type='text/css'> 
+
+
+	<header>
+		<a href="Research Portfolio.html">
+		<h1>Sanchari Bhattacharya | Process Engineer</h1>
+		</a>
+		<nav>
+		<div id="wrapper1">
+		<ul>
+			<li>
+			<a href="Research Portfolio.html" class="navi"> Research Portfolio</a>
+			<a href="Research Part 1.html" class="navi">Research Part 1</a>
+			<a href="Research Part 2.html" class="navi" research="" part="" 2="">Research Part 2</a>
+			<a href="Publications &amp; Awards.html" class="navi">Publications &amp; Awards</a>
+<a href="Contact.html" class="navi">Contact</a>
+			</li>
+		</ul>
+		</div>
+		</nav>
+	</header>
+
+
+<div>
+<img src="me.jpg" alt="Sanchari Bhattacharya" class="picture">
+</div>
+
+<section id="primary"
+<p>Chemistry has always been my passion. I have dabbled in many branches of chemistry and liked them all! I have a Masters in Organic Chemistry from University of Calcutta, one of the oldest Universities in India. My Ph.D is in Bio-analytical Chemistry, during which I build microfluidic devices for trapping single cancer cells for analysis of single cell analyte. This would be a break through in early disease diagnosis of the deadly disease. If you are keen to know more, please keep on reading at the end <a href="Research Part 1.html" id="research1">Research Part 1</a>
+<a href="Research Part 2.html" id="research2">Research Part 2</a>
+Enjoy the movies which shows the single cancer cell trapping in real time. 
+<br>
+I have worked as an Analytical Chemist at a pharmaceutical company and developed <strong>UHPLC</strong> method for separating and quantifying water and fat soluble vitamins. It was a pretty cool job. But I wanted to do more. So I joined Intel as a Process Engineer and my job role is that of the Chemical Engineer of the group. We are involved in chemical vapor deposition of dielectric thin films to form the <q>Fins</q> of the FINFETS. I cannot talk about the actual process, as it is Intellectual Property but can guide to some very cool articles about the process in general.
+</p>
+</section>
+
+<footer>
+	&copy; Sanchari Bhattacharya 2014
+		
+</footer>
