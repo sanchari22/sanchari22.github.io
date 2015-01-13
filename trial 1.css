@@ -64,6 +64,7 @@ margin:
 font-family:'Philosopher', sans-serif;
 display:inline-block;
 font-size:1.5 em;
+color:red;
 }
 .scheme{
 margin: 10px auto;
