@@ -41,7 +41,9 @@ margin: 10px 15px 10px 10px;
 display:block;
 test-align:center;
 }
-
+body{
+  background-color:#67C5C2;
+}
 
 h2{
 display:block;
