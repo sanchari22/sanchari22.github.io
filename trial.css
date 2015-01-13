@@ -45,6 +45,26 @@ display:inline-block;
 box-shadow: 5px 3px black;
 float:left;
 }
+a.navi{
+text-align: center;
+margin:2px 3px 3px 3px;
+background-color:#fff8dc;
+height: 1.5em;
+line-height: 1.5em;
+width: 17em;
+padding:5px;
+border: .3em solid;
+border-left:  black;
+border-bottom: #888888;
+border-radius:40px;
+text-decoration:none;
+color: #8B4513;
+font-family: 'Philosopher', sans-serif;
+font-size:1.0em;
+display:inline-block;
+box-shadow: 5px 3px black;
+float:left;
+}
 
 p{
 font-family: 'Philosopher', sans-serif;
