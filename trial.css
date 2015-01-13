@@ -65,7 +65,9 @@ display:inline-block;
 box-shadow: 5px 3px black;
 float:left;
 }
-
+body{
+  background-color:#67C5C2;
+}
 p{
 font-family: 'Philosopher', sans-serif;
 font-size:1.25em;
