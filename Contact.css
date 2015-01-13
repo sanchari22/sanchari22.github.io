@@ -39,6 +39,7 @@ font-family: 'Philosopher', sans-serif;
 font-size:1.25em;
 margin: 10px 15px 10px 10px;
 display:block;
+test-align:center;
 }
 
 
@@ -49,12 +50,7 @@ font-size:1.5 em;
 padding:5px,0,0,0;
 margin:10px 10px 10px 10px;
 }
-.acknowledgment {
-list-style:none;
-font-size:1.25em;
-font-family: 'Philosopher', sans-serif;
-margin: 0 0 0 10px;
-}
+
 
 .contact-info li{
 list-style:none;
